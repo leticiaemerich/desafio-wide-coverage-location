@@ -6,3 +6,4 @@
       <br>
       -CSS
       <br>
+      <img src="https://github.com/leticiaemerich/desafio-wide-coverage-location/blob/master/img/img-wide-coverage-site.png?raw=true"/>
